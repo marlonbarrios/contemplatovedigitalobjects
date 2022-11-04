@@ -1,5 +1,7 @@
 # contemplatovedigitalobjects
 
+#Contemplative Digital Objects
+
 ##ensō ring |
 
 a contemplative digital object
