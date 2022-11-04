@@ -1,8 +1,8 @@
 # contemplatovedigitalobjects
 
-#Contemplative Digital Objects
+# Contemplative Digital Objects
 
-##ensō ring |
+## ensō ring |
 
 a contemplative digital object
 
@@ -19,7 +19,7 @@ https://marlonbarrios.github.io/ensoring/
  
 
  
-##Nimitta |
+## Nimitta |
 
 Contemplative Digital Object 02
 
@@ -55,7 +55,7 @@ Contemplation of the Body (Ānāpānasati)
 https://marlonbarrios.github.io/bodyofthebreath/
 
 
-##chromatic crescent |
+## chromatic crescent |
 
 Contemplative Digital Object 03
 
