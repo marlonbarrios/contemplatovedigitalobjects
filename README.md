@@ -14,7 +14,8 @@ I tried to simulate the quality of the ink and watercolor as a living process. A
 
 "Form is emptiness (śūnyatā), emptiness is form."
 
-<img width="758" alt="Screen Shot 2022-11-04 at 4 18 33 PM" src="https://user-images.githubusercontent.com/90220317/200066861-23a92ba8-82da-4c5b-8999-c3549a4187da.png">
+<img width="1205" alt="Screen Shot 2022-11-04 at 8 31 35 PM" src="https://user-images.githubusercontent.com/90220317/200092819-0194d875-6be5-4c6f-9c7c-4e98dd2245ed.png">
+
 
 [LIVE APP](https://marlonbarrios.github.io/ensoring/  'CODE REPOSITORY')
 
@@ -50,8 +51,7 @@ Contemplation of the Body (Ānāpānasati)
      ‘Breathing out, I calm the bodily formation.’
      Pāli Canon
      
-     
-<img width="949" alt="Screen Shot 2022-11-04 at 4 19 21 PM" src="https://user-images.githubusercontent.com/90220317/200066965-a025162a-5d94-4858-aebe-293a01882992.png">
+<img width="1205" alt="Screen Shot 2022-11-04 at 8 32 03 PM" src="https://user-images.githubusercontent.com/90220317/200092830-b547cecc-19e5-4028-83fd-c5e909c12657.png">
 
 [LIVE APP](https://marlonbarrios.github.io/bodyofthebreath/ 'CODE REPOSITORY')
 
@@ -61,9 +61,9 @@ Contemplation of the Body (Ānāpānasati)
 
 Contemplative Digital Object 03
 
-webgl experimenting with color perception while color changing at  the same pace.
+Shader in  webgl experimenting with color perception while color changing at the same pace.
 
-Shader in <img width="745" alt="Screen Shot 2022-11-04 at 4 19 58 PM" src="https://user-images.githubusercontent.com/90220317/200067058-3a3b31ab-156d-48f0-8f28-aee3defa8df4.png">
+<img width="1161" alt="Screen Shot 2022-11-04 at 8 32 54 PM" src="https://user-images.githubusercontent.com/90220317/200092844-a769e823-9efb-4fe0-8a6b-c2040f31bff4.png">
 
 [LIVE APP](https://marlonbarrios.github.io/chromatic_crescent/ 'CODE REPOSITORY')
 
